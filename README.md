@@ -1,0 +1,1 @@
+This repo contains designs made using MATLAB and App Designer. The Term Project file contains a system design that irrigates according to the humidity-temperature value that we coded Arduino via MATLAB and controlled via the app designer.
